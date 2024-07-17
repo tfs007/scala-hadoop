@@ -1,0 +1,1 @@
+This Scala project works with hadoop to compress / decompress files. 

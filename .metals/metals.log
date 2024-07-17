@@ -1,0 +1,51 @@
+2024.07.17 11:48:06 INFO  Started: Metals version 1.3.3 in folders '/Users/talat/backend/scala/scalahadoopfilecompression' for client Visual Studio Code 1.91.1.[0m
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@5786f5ab]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@4c4d6af]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@5786f5ab]
+2024.07.17 11:48:06 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
+Jul 17, 2024 11:48:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Jul 17, 2024 11:48:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+Jul 17, 2024 11:48:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Jul 17, 2024 11:48:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.07.17 11:48:07 WARN  Could not calculate checksum for sbt in /Users/talat/backend/scala/scalahadoopfilecompression[0m
+2024.07.17 11:48:07 WARN  Build server is not auto-connectable.[0m
+2024.07.17 11:48:07 INFO  no build target found for /Users/talat/backend/scala/scalahadoopfilecompression/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.17 11:48:17 INFO  no build target found for /Users/talat/backend/scala/scalahadoopfilecompression/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.17 11:48:30 WARN  no build target for: /Users/talat/backend/scala/scalahadoopfilecompression/build.sbt[0m
+2024.07.17 11:48:32 INFO  no build target found for /Users/talat/backend/scala/scalahadoopfilecompression/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.17 11:48:32 INFO  no build target found for /Users/talat/backend/scala/scalahadoopfilecompression/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.17 11:48:32 INFO  time: code lens generation in 18s[0m
+2024.07.17 11:48:32 INFO  time: code lens generation in 19s[0m
+2024.07.17 11:48:32 INFO  time: code lens generation in 24s[0m
+2024.07.17 11:48:32 INFO  time: code lens generation in 2.31s[0m
+2024.07.17 11:48:41 INFO  no build target found for /Users/talat/backend/scala/scalahadoopfilecompression/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.17 11:48:43 WARN  no build target for: /Users/talat/backend/scala/scalahadoopfilecompression/build.sbt[0m
+2024.07.17 11:48:43 INFO  no build target found for /Users/talat/backend/scala/scalahadoopfilecompression/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.17 11:48:53 INFO  no build target found for /Users/talat/backend/scala/scalahadoopfilecompression/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.17 11:49:24 INFO  no build target found for /Users/talat/backend/scala/scalahadoopfilecompression/src/main/scala/FileCompressor.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.17 11:49:24 WARN  no build target for: /Users/talat/backend/scala/scalahadoopfilecompression/src/main/scala/FileCompressor.scala[0m
+2024.07.17 11:49:24 INFO  no build target found for /Users/talat/backend/scala/scalahadoopfilecompression/src/main/scala/FileCompressor.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.17 11:49:48 INFO  no build target found for /Users/talat/backend/scala/scalahadoopfilecompression/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.17 11:50:45 INFO  no build target found for /Users/talat/backend/scala/scalahadoopfilecompression/src/main/scala/FileCompressor.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.17 11:50:45 INFO  no build target found for /Users/talat/backend/scala/scalahadoopfilecompression/src/main/scala/FileCompressor.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.17 11:50:48 INFO  no build target found for /Users/talat/backend/scala/scalahadoopfilecompression/src/main/scala/FileCompressor.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.17 11:50:50 WARN  no build target for: /Users/talat/backend/scala/scalahadoopfilecompression/src/main/scala/FileCompressor.scala[0m
+2024.07.17 11:51:01 INFO  no build target found for /Users/talat/backend/scala/scalahadoopfilecompression/src/main/scala/FileDecompressor.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.17 11:51:01 WARN  no build target for: /Users/talat/backend/scala/scalahadoopfilecompression/src/main/scala/FileDecompressor.scala[0m
+2024.07.17 11:51:01 INFO  no build target found for /Users/talat/backend/scala/scalahadoopfilecompression/src/main/scala/FileDecompressor.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.17 11:51:10 INFO  no build target found for /Users/talat/backend/scala/scalahadoopfilecompression/src/main/scala/FileDecompressor.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.17 11:51:12 WARN  no build target for: /Users/talat/backend/scala/scalahadoopfilecompression/src/main/scala/FileDecompressor.scala[0m
+2024.07.17 11:51:12 INFO  no build target found for /Users/talat/backend/scala/scalahadoopfilecompression/src/main/scala/FileDecompressor.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.17 11:51:44 INFO  no build target found for /Users/talat/backend/scala/scalahadoopfilecompression/src/main/scala/FileCompressorSpec.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.17 11:51:44 WARN  no build target for: /Users/talat/backend/scala/scalahadoopfilecompression/src/main/scala/FileCompressorSpec.scala[0m
+2024.07.17 11:51:44 INFO  no build target found for /Users/talat/backend/scala/scalahadoopfilecompression/src/main/scala/FileCompressorSpec.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.17 11:51:51 INFO  no build target found for /Users/talat/backend/scala/scalahadoopfilecompression/src/main/scala/FileCompressorSpec.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.17 11:51:52 INFO  no build target found for /Users/talat/backend/scala/scalahadoopfilecompression/src/main/scala/FileCompressorSpec.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.07.17 11:51:52 WARN  no build target for: /Users/talat/backend/scala/scalahadoopfilecompression/src/main/scala/FileCompressorSpec.scala[0m
+2024.07.17 11:54:12 INFO  no build target found for /Users/talat/backend/scala/scalahadoopfilecompression/src/main/scala/FileCompressorSpec.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
